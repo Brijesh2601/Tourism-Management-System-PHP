@@ -3,7 +3,19 @@
 This is a **Tourism Management System** developed in **PHP and MySQL**.  
 It helps travel agencies and tour operators manage bookings, packages, customers, and payments efficiently.  
 
----
+## 🖼️ Screenshots
+
+### Homepage
+![Homepage](screenshots/home.png)
+
+### Admin Dashboard
+![Login Page](screenshots/admin_panel.png)
+
+### tour_packages
+![Dashboard](screenshots/tour_packages.png)
+
+### sign_up
+![Dashboard](screenshots/sign_up.png)
 
 ## 📂 Project Structure
 - **index.php** → Homepage  
